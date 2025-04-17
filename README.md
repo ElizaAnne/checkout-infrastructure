@@ -1,1 +1,1 @@
-# Lightweight Product Website Infrastructure
+# Lightweight Checkout Website Infrastructure
